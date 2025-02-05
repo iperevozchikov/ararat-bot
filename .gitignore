@@ -1,0 +1,28 @@
+# Configurations
+config/.env
+
+# Compiled output
+dist
+out-tsc
+
+# Dependencies
+node_modules
+
+# IDEs and editors
+.idea
+.project
+.classpath
+*.launch
+.vscode
+.devcontainer
+
+# Miscelaneous
+coverage
+npm-debug.log
+.nvmrc
+
+# System Files
+.DS_Store
+Thumbs.db
+debug.log
+.cache
